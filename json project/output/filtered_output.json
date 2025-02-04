@@ -1,0 +1,12 @@
+[
+    {
+        "company_id": "12345",
+        "name": "Company A",
+        "location": "New York"
+    },
+    {
+        "company_id": "12345",
+        "name": "Company C",
+        "location": "Tokyo"
+    }
+]
